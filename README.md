@@ -1,42 +1,175 @@
 ## Mageto 2 Special Promotion
 
 You have the plan to create promotions specifically for your customers?
-Magepow releases **Magento 2 Special Promotion extension** with 16 unique shopping cart promotion rules to help you provide customers with the best deals. 
+
+Magepow releases [**Magento 2 Special Promotion extension**](https://magepow.com/magento-2-special-promotion-extension.html) with 16 unique shopping cart promotion rules to help you provide customers with the best deals. 
+
+[![Latest Stable Version](https://poser.pugx.org/magepow/specialpromotions/v/stable)](https://packagist.org/packages/magepow/specialpromotions)
+[![Total Downloads](https://poser.pugx.org/magepow/specialpromotions/downloads)](https://packagist.org/packages/magepow/specialpromotions)
+[![Daily Downloads](https://poser.pugx.org/magepow/specialpromotions/d/daily)](https://packagist.org/packages/magepow/specialpromotions)
 
 ## Description
 
 Everyone loves the opportunity to receive gifts. That is a great marketing strategy.
+
 Create special promotions to help attract the attention of customers, stimulate them to discover many of the website's products / services and increase conversion rates for your store.
 
 Special Promotion extension helps Magento website create automatic promotions for groups of products, products or variations.
+
 When a product, product, or variation group is set up in a promotion, the price of the corresponding item also automatically varies according to, within the time of the promotion.
 This helps to stimulate customers to buy goods when viewing products and seeing attractive promotional prices on the website.
 
 ## Highlight Features
+
 ### Set up promotions using 16 unique rules
 
-1. The Cheapest, Also For Buy 1 Get 1 Free
-
-This rule is designed to create a discount for the cheapest product in the shopping cart. For example the following configuration, a 10% discount on the lowest priced product in the shopping cart:
 
 
-2. The Most Expensive
+#### The Cheapest, Also For Buy 1 Get 1 Free
+
+This rule is designed to create a discount for the cheapest product in the shopping cart. For example: 10% discount on the lowest priced product in the shopping cart
+
+#### The Most Expensive
 
 Similar to setting the rule above, but instead of the cheapest product, 'The most expensive' will discount the most expensive item in the shopping cart.
 
+#### Get $Y For Each $X Spent
 
-3. Get $Y For Each $X Spent
+Let's set up a rule like 'Buy 2 Watch and get a fitness video and a Didi Sport Watch with 20% discount'. 
 
-Let's set up a rule like 'Buy 2 Watch and get a fitness video and a Didi Sport Watch with 20% discount'. This is how the rule might look like
+#### Buy X get Y
+
++ Percent discount: Buy X get Y free
+
++ Fixed Discount: Buy X Get Y With $10 Off
+
++ Fixed Price: Buy X Get Y For $9.99
+
+#### Each N-th
+
+Promotion applies to the nth item in the cart 
+
++ Percent Discount: Each 2-D, 4-Th, 6-Th With 15% Off
+
++ Fixed Discount: Each 3-D, 6-Th, 9-Th With $15 Off
+
++ Fixed Price: Each 5th, 10th, 15th For $49
+
+#### Each Group Of N
+
+Promotional options for a group that includes n products in the cart.
+
++ Fixed Price: Each 5 Items For $50
+
++ Percent Discount: Each 5 Items With 10% Off
+
+#### Product Set
+
+Promotion applies to product sets
+
++ Percent Discount For Product Set
+
++ Fixed Price For Product Set
+
+#### For example
+
+Create a Special Promotion "10% discount on most expensive product".
 
 
+And here's the result:
 
 
-4. Percent Discount: Buy X Get Y Free
+### Easy to manage and customize
 
-This rule is used when you want to apply discounts on one or more specific in-store products. For example, the promotion 'Buy a white shirt and get a red bow and get a 15% discount'
+- Enable Magepow Special Promotion with one click
+- Create unlimited promotions
+- Rule priority mode helps to avoid conflicts when conducting promotions
+- Skip products at the store with special prices
+- Featured promotion with banner and product label: header banner, product description banner, product label
+- Option to display banners in rule priority order
+- Banner placement option according to rule priority order
+- Run promotions based on the store's budget
+- Compatible with open source Magento
+- Compatible with [Alothemes](https://alothemes.com/) and other extensions in [Magepow](https://magepow.com/)
 
-5. Fixed Discount: Buy X Get Y With $10 Off
+##  How to install Magento 2 Special Promotion
+#### ✓ Install Magepow Special Promotion via composer (recommend)
+Run the following command in Magento 2 root folder:
 
-This rule applies the fixed amount discount instead of the percentage discount like the rules above.
+```
+composer require magepow/specialpromotions
+php bin/magento setup:upgrade
+php bin/magento setup:static-content:deploy -f
+```
 
+### Magepow Special Promotion user guide
+
+#### Enable Magepow Categories
+Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Special Promotion`
+
+Select `Yes` to enable module.
+
+#### See details at
+- Description: [Special Promotion extension by Magepow](https://magepow.com/magento-2-special-promotion-extension.html)
+- Document: [Special Promotion Magento extension Document](https://docs.alothemes.com/m2/extension/specialpromotions/#sub21-1)
+
+
+## Donation
+
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/alopay)
+
+**Free Extensions List**
+
+* [Magento 2 Recent Sales Notification](https://magepow.com/magento-2-recent-sales-notification.html)
+
+* [Magento 2 Categories Extension](https://magepow.com/magento-categories-extension.html)
+
+* [Magento 2 Sticky Cart](https://magepow.com/magento-sticky-cart.html)
+
+**Premium Extensions List**
+
+* [Magento 2 Pages Speed Optimizer](https://magepow.com/magento-speed-optimizer.html)
+
+* [Magento 2 Mutil Translate](https://magepow.com/magento-multi-translate.html)
+
+* [Magento 2 Instagram Integration](https://magepow.com/magento-2-instagram.html)
+
+* [Magento 2 Lookbook Pin Products](https://magepow.com/lookbook-pin-products.html)
+
+**Featured Magento Themes**
+
+* [Expert Multipurpose responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/expert-premium-responsive-magento-2-and-1-support-rtl-magento-2-/21667789)
+
+* [Gecko Premium responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/gecko-responsive-magento-2-theme-rtl-supported/24677410)
+
+* [Milano Fashion responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/milano-fashion-responsive-magento-1-2-theme/12141971)
+
+* [Electro responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/electro-responsive-magento-1-2-theme/17042067)
+
+* [Pizzaro Food responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/pizzaro-food-responsive-magento-1-2-theme/19438157)
+
+* [Biolife Organic responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/biolife-organic-food-magento-2-theme-rtl-supported/25712510)
+
+* [Market responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/market-responsive-magento-2-theme/22997928)
+
+* [Kuteshop responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/kuteshop-multipurpose-responsive-magento-1-2-theme/12985435)
+
+**Featured Magento Services**
+
+* [PSD to Magento 2 Theme Conversion](https://magepow.com/psd-to-magento-theme-conversion.html)
+
+* [Magento Speed Optimization Service](https://magepow.com/magento-speed-optimization-service.html)
+
+* [Magento Security Patch Installation](https://magepow.com/magento-security-patch-installation.html)
+
+* [Magento Website Maintenance Service](https://magepow.com/website-maintenance-service.html)
+
+* [Magento Professional Installation Service](https://magepow.com/professional-installation-service.html)
+
+* [Magento Upgrade Service](https://magepow.com/magento-upgrade-service.html)
+
+* [Customization Service](https://magepow.com/customization-service.html)
+
+* [Hire Magento Developer](https://magepow.com/hire-magento-developer.html)
