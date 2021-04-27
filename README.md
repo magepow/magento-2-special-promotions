@@ -8,7 +8,7 @@ Magepow releases [**Magento 2 Special Promotion extension**](https://magepow.com
 [![Total Downloads](https://poser.pugx.org/magepow/specialpromotions/downloads)](https://packagist.org/packages/magepow/specialpromotions)
 [![Daily Downloads](https://poser.pugx.org/magepow/specialpromotions/d/daily)](https://packagist.org/packages/magepow/specialpromotions)
 
-## Description
+## 1. Description
 
 Everyone loves the opportunity to receive gifts. That is a great marketing strategy.
 
@@ -19,9 +19,9 @@ Special Promotion extension helps Magento website create automatic promotions fo
 When a product, product, or variation group is set up in a promotion, the price of the corresponding item also automatically varies according to, within the time of the promotion.
 This helps to stimulate customers to buy goods when viewing products and seeing attractive promotional prices on the website.
 
-## Highlight Features
+## 2. Highlight Features
 
-### Set up promotions using 16 unique rules
+### **Set up promotions using 16 unique rules**
 
 
 
@@ -79,7 +79,7 @@ Create a Special Promotion "10% discount on most expensive product".
 And here's the result:
 
 
-### Easy to manage and customize
+### **Easy to manage and customize**
 
 - Enable Magepow Special Promotion with one click
 - Create unlimited promotions
@@ -92,7 +92,7 @@ And here's the result:
 - Compatible with open source Magento
 - Compatible with [Alothemes](https://alothemes.com/) and other extensions in [Magepow](https://magepow.com/)
 
-##  How to install Magento 2 Special Promotion
+##  3. How to install Magento 2 Special Promotion
 #### ✓ Install Magepow Special Promotion via composer (recommend)
 Run the following command in Magento 2 root folder:
 
@@ -102,7 +102,7 @@ php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy -f
 ```
 
-### Magepow Special Promotion user guide
+### 4. Magepow Special Promotion user guide
 
 #### Enable Magepow Categories
 Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Special Promotion`
