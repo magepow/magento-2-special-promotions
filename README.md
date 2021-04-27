@@ -13,28 +13,30 @@ When a product, product, or variation group is set up in a promotion, the price 
 This helps to stimulate customers to buy goods when viewing products and seeing attractive promotional prices on the website.
 
 ## Highlight Features
-### Set up promotions using unique rules
+### Set up promotions using 16 unique rules
 
-####1. The Cheapest, Also For Buy 1 Get 1 Free
+1. The Cheapest, Also For Buy 1 Get 1 Free
 
 This rule is designed to create a discount for the cheapest product in the shopping cart. For example the following configuration, a 10% discount on the lowest priced product in the shopping cart:
 
 
-####2. The Most Expensive
+2. The Most Expensive
 
 Similar to setting the rule above, but instead of the cheapest product, 'The most expensive' will discount the most expensive item in the shopping cart.
 
 
-####3. Get $Y For Each $X Spent
+3. Get $Y For Each $X Spent
 
-For this rule you can create a special 'Get $ 10 off every $ 300 in the cart' special offer.
+Let's set up a rule like 'Buy 2 Watch and get a fitness video and a Didi Sport Watch with 20% discount'. This is how the rule might look like
 
 
-####4. Buy X Get Y (X And Y Are Different Products)
+
+
+4. Percent Discount: Buy X Get Y Free
 
 This rule is used when you want to apply discounts on one or more specific in-store products. For example, the promotion 'Buy a white shirt and get a red bow and get a 15% discount'
 
-####5. Fixed Discount: Buy X Get Y With $10 Off
+5. Fixed Discount: Buy X Get Y With $10 Off
 
 This rule applies the fixed amount discount instead of the percentage discount like the rules above.
 
