@@ -23,7 +23,7 @@ This helps to stimulate customers to buy goods when viewing products and seeing 
 
 ### **Set up promotions using 16 unique rules**
 
-
+[![Special Promotion extension](https://github.com/magepow/magento-2-special-promotions/blob/main/media/screencapture-magepow-magento-2-special-promotion-extension-html-2021-04-27-16_01_49.png)](https://magepow.com/magento-2-special-promotion-extension.html)
 
 #### The Cheapest, Also For Buy 1 Get 1 Free
 
@@ -74,10 +74,10 @@ Promotion applies to product sets
 #### For example
 
 Create a Special Promotion "10% discount on most expensive product".
-
+![10% discount on most expensive product](https://github.com/magepow/magento-2-special-promotions/blob/main/media/the-most-expensive-special-promotion.png)
 
 And here's the result:
-
+![result](https://github.com/magepow/magento-2-special-promotions/blob/main/media/result-the%20most-expensive.png)
 
 ### **Easy to manage and customize**
 
