@@ -4,10 +4,6 @@ You have the plan to create promotions specifically for your customers?
 
 Magepow releases [**Magento 2 Special Promotion extension**](https://magepow.com/magento-2-special-promotion-extension.html) with 16 unique shopping cart promotion rules to help you provide customers with the best deals. 
 
-[![Latest Stable Version](https://poser.pugx.org/magepow/specialpromotions/v/stable)](https://packagist.org/packages/magepow/specialpromotions)
-[![Total Downloads](https://poser.pugx.org/magepow/specialpromotions/downloads)](https://packagist.org/packages/magepow/specialpromotions)
-[![Daily Downloads](https://poser.pugx.org/magepow/specialpromotions/d/daily)](https://packagist.org/packages/magepow/specialpromotions)
-
 ## 1. Description
 
 Everyone loves the opportunity to receive gifts. That is a great marketing strategy.
