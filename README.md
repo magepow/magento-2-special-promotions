@@ -73,10 +73,11 @@ Promotion applies to product sets
 
 #### For example
 
-Create a Special Promotion "10% discount on most expensive product".
+**Create a Special Promotion "10% discount on most expensive product".**
 ![10% discount on most expensive product](https://github.com/magepow/magento-2-special-promotions/blob/main/media/the-most-expensive-special-promotion.png)
 
-And here's the result:
+
+**And here's the result:**
 ![result](https://github.com/magepow/magento-2-special-promotions/blob/main/media/result-the%20most-expensive.png)
 
 ### **Easy to manage and customize**
